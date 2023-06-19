@@ -1,0 +1,1092 @@
+que: Pronombre relativo utilizado para introducir una oración subordinada.
+no: Adverbio de negación.
+a: Preposición utilizada para marcar destino o dirección.
+la: Artículo definido femenino singular.
+el: Artículo definido masculino singular.
+es: Forma conjugada del verbo "ser" en tercera persona del singular en presente.
+y: Conjunción utilizada para unir elementos.
+en: Preposición que indica lugar o tiempo.
+lo: Pronombre personal masculino singular de objeto directo.
+un: Artículo indefinido masculino singular.
+por: Preposición que indica causa, motivo o finalidad.
+me: Pronombre personal de primera persona del singular de objeto indirecto.
+qué: Pronombre interrogativo o exclamativo que introduce una pregunta o exclamación.
+una: Artículo indefinido femenino singular.
+te: Pronombre personal de segunda persona del singular de objeto directo o de objeto indirecto.
+los: Artículo definido o pronombre personal masculino plural de objeto directo.
+se: Pronombre personal reflexivo o recíproco de tercera persona.
+con: Preposición que indica compañía o instrumento.
+para: Preposición que indica finalidad o destino.
+mi: Pronombre posesivo de primera persona del singular.
+está: Forma conjugada del verbo "estar" en tercera persona del singular en presente.
+si: Conjunción condicional o interrogativa.
+pero: Conjunción adversativa que introduce una idea contraria a lo expresado anteriormente.
+las: Artículo definido o pronombre personal femenino plural de objeto directo.
+su: Pronombre posesivo de tercera persona del singular o plural.
+yo: Pronombre personal de primera persona del singular.
+tu: Pronombre posesivo de segunda persona del singular.
+del: Contracción de la preposición "de" y el artículo definido "el".
+al: Contracción de la preposición "a" y el artículo definido "el".
+como: Conjunción comparativa o adverbio de modo.
+le: Pronombre personal de tercera persona de complemento indirecto.
+eso: Pronombre demostrativo o neutro.
+sí: Pronombre reflexivo o afirmativo.
+esta: Forma del pronombre demostrativo femenino singular.
+ya: Adverbio que indica tiempo pasado o prontitud.
+más: Adverbio de cantidad o conjunción de adición.
+muy: Adverbio de intensidad.
+hay: Forma del verbo "haber" en tercera persona del singular en presente.
+bien: Adverbio que indica de manera adecuada o saludable.
+estoy: Forma del verbo "estar" en primera persona del singular en presente.
+todo: Pronombre indefinido o adjetivo que indica totalidad.
+nos: Pronombre personal de primera persona del plural.
+tengo: Forma del verbo "tener" en primera persona del singular en presente.
+ha: Forma del verbo "haber" en tercera persona del singular en presente.
+este: Pronombre demostrativo o adjetivo que indica cercanía.
+cuando: Conjunción temporal que indica el momento en que ocurre algo.
+sólo: Adverbio de exclusividad o solamente.
+vamos: Forma del verbo "ir" en primera persona del plural en presente.
+cómo: Adverbio interrogativo o exclamativo que indica manera o modo.
+estás: Forma del verbo "estar" en segunda persona del singular en presente.
+o: Conjunción disyuntiva que indica opción entre dos elementos.
+soy: Forma del verbo "ser" en primera persona del singular en presente.
+puedo: Forma del verbo "poder" en primera persona del singular en presente.
+esto: Pronombre demostrativo o sustantivo neutro.
+quiero: Forma del verbo "querer" en primera persona del singular en presente.
+aquí: Adverbio que indica lugar próximo al hablante.
+tiene: Forma del verbo "tener" en tercera persona del singular en presente.
+tú: Pronombre personal de segunda persona del singular.
+ahora: Adverbio que indica tiempo presente.
+algo: Pronombre indefinido o sustantivo que indica una cosa indeterminada.
+fue: Forma del verbo "ser" o "ir" en tercera persona del singular en pretérito.
+son: Forma del verbo "ser" en tercera persona del plural en presente.
+ser: Verbo que indica existencia o naturaleza de algo o alguien.
+he: Forma del verbo "haber" en primera persona del singular en presente.
+era: Forma del verbo "ser" en primera o tercera persona del singular en pretérito.
+eres: Forma del verbo "ser" en segunda persona del singular en presente.
+así: Adverbio que indica de esa manera o de ese modo.
+sé: Forma del verbo "saber" o "ser" en primera persona del singular en presente.
+tienes: Forma del verbo "tener" en segunda persona del singular en presente.
+ese: Pronombre demostrativo o adjetivo que indica cercanía.
+bueno: Adjetivo que indica calidad positiva.
+creo: Forma del verbo "creer" en primera persona del singular en presente.
+todos: Pronombre indefinido o adjetivo que indica la totalidad de un conjunto.
+sus: Pronombre posesivo de tercera persona del plural.
+puede: Forma del verbo "poder" en tercera persona del singular en presente.
+voy: Forma del verbo "ir" en primera persona del singular en presente.
+tan: Adverbio que indica grado o cantidad.
+esa: Pronombre demostrativo o adjetivo que indica cercanía.
+porque: Conjunción causal que introduce una causa o razón.
+dónde: Adverbio interrogativo o exclamativo que indica lugar.
+hacer: Verbo que indica realizar o ejecutar una acción.
+quién: Pronombre interrogativo o exclamativo que indica identidad.
+nunca: Adverbio que indica en ningún momento o en ninguna ocasión.
+nada: Pronombre indefinido o sustantivo que indica ausencia de algo.
+él: Pronombre personal de tercera persona del singular.
+estaba: Forma del verbo "estar" en primera o tercera persona del singular en pretérito.
+están: Forma del verbo "estar" en tercera persona del plural en presente.
+quieres: Forma del verbo "querer" en segunda persona del singular en presente.
+va: Forma del verbo "ir" en tercera persona del singular en presente.
+sabes: Forma del verbo "saber" en segunda persona del singular en presente.
+vez: Sustantivo que indica una ocasión o una repetición.
+hace: Forma del verbo "hacer" en tercera persona del singular en presente.
+ella: Pronombre personal de tercera persona del singular.
+dos: Número cardinal que indica la cantidad de dos.
+tenemos: Forma del verbo "tener" en primera persona del plural en presente.
+puedes: Forma del verbo "poder" en segunda persona del singular en presente.
+sin: Preposición que indica ausencia o falta de algo.
+hasta: Preposición que indica el límite o el final de algo.
+entonces: Adverbio que indica consecuencia o conclusión.
+dios: Sustantivo que se refiere a una deidad suprema o ser supremo en algunas religiones.
+sobre: Preposición que indica posición o movimiento encima o acerca de algo.
+usted: Pronombre de segunda persona del singular que se utiliza como tratamiento formal.
+ni: Conjunción que se utiliza para unir elementos de manera negativa o para expresar exclusión.
+has: Forma del verbo "haber" en segunda persona del singular en presente.
+mis: Pronombre posesivo de primera persona del plural.
+mejor: Adjetivo que indica una mayor calidad o superioridad.
+mucho: Adverbio que indica una gran cantidad o intensidad.
+gracias: Expresión de agradecimiento.
+ver: Verbo que indica percibir visualmente o mirar algo.
+hola: Saludo utilizado para saludar o llamar la atención.
+solo: Adjetivo o adverbio que indica la ausencia de compañía o algo único.
+estar: Verbo que indica la condición o situación de algo o alguien en un momento específico.
+les: Pronombre personal de tercera persona del plural de complemento indirecto.
+estamos: Forma del verbo "estar" en primera persona del plural en presente.
+siento: Forma del verbo "sentir" en primera persona del singular en presente.
+alguien: Pronombre indefinido que se refiere a una persona indeterminada.
+otra: Pronombre o adjetivo que indica una cosa adicional o diferente.
+siempre: Adverbio que indica que algo ocurre en todo momento o de manera constante.
+hombre: Sustantivo que se refiere a un ser humano adulto de género masculino.
+uno: Número cardinal que indica la cantidad de uno.
+donde: Adverbio interrogativo o exclamativo que indica lugar o en qué lugar.
+quiere: Forma del verbo "querer" en tercera persona del singular en presente.
+parece: Verbo que indica una apariencia o una impresión.
+antes: Adverbio que indica un período de tiempo anterior o una posición previa.
+ir: Verbo que indica movimiento o desplazamiento hacia un lugar.
+mira: Forma del verbo "mirar" en segunda persona del singular en presente.
+vas: Forma del verbo "ir" en segunda persona del singular en presente.
+tal: Adjetivo o pronombre que indica una cualidad o característica específica.
+tus: Pronombre posesivo de segunda persona del singular.
+decir: Verbo que indica expresar o comunicar algo mediante palabras.
+han: Forma del verbo "haber" en tercera persona del plural en presente.
+ahí: Adverbio que indica en ese lugar o en ese punto.
+poco: Adverbio o adjetivo que indica una cantidad reducida o escasa.
+estas: Forma del verbo "estar" en segunda persona del singular en presente.
+nadie: Pronombre indefinido que indica ninguna persona.
+desde: Preposición que indica un punto de origen en el tiempo o el espacio.
+sea: Forma del verbo "ser" en tercera persona del singular en presente o del verbo "ser" en imperativo.
+también: Adverbio que indica inclusión o adición a lo mencionado anteriormente.
+tiempo: Sustantivo que se refiere a la duración o a un período específico.
+gran: Adjetivo que indica tamaño o importancia considerable.
+dijo: Forma del verbo "decir" en tercera persona del singular en pretérito.
+favor: Sustantivo que se refiere a una ayuda o un acto amable.
+podemos: Forma del verbo "poder" en primera persona del plural en presente.
+casa: Sustantivo que se refiere a una vivienda o un hogar.
+gente: Sustantivo que se refiere a un grupo de personas.
+cosas: Sustantivo que se refiere a objetos o elementos no específicos.
+otro: Adjetivo o pronombre que indica una cosa adicional o diferente.
+día: Sustantivo que se refiere a un período de 24 horas o a la luz del sol.
+buen: Adjetivo que indica una buena calidad o bondad.
+podría: Forma del verbo "poder" en primera o tercera persona del singular en condicional.
+debe: Forma del verbo "deber" en tercera persona del singular en presente.
+necesito: Forma del verbo "necesitar" en primera persona del singular en presente.
+había: Forma del verbo "haber" en tercera persona del singular en pretérito.
+después: Adverbio que indica posterioridad o sucesión temporal.
+será: Forma del verbo "ser" en tercera persona del singular en futuro.
+hecho: Sustantivo que se refiere a una acción realizada o un suceso ocurrido.
+señor: Sustantivo que se utiliza para dirigirse de manera respetuosa a un hombre.
+nuestro: Pronombre posesivo de primera persona del plural.
+vida: Sustantivo que se refiere al estado de existencia de un ser vivo.
+tener: Verbo que indica posesión o propiedad de algo.
+sabe: Forma del verbo "saber" en tercera persona del singular en presente.
+quien: Pronombre interrogativo o relativo que se refiere a una persona indeterminada.
+tenía: Forma del verbo "tener" en tercera persona del singular en pretérito.
+hablar: Verbo que indica la acción de comunicarse verbalmente.
+buena: Adjetivo que indica una buena calidad o bondad.
+ellos: Pronombre personal de tercera persona del plural.
+dije: Forma del verbo "decir" en primera persona del singular en pretérito.
+toda: Adjetivo que indica la totalidad o el conjunto completo de algo.
+tipo: Sustantivo que se refiere a una categoría o clasificación de algo.
+fuera: Adverbio que indica ubicación o posición externa a algo.
+estado: Sustantivo que se refiere a una condición o situación.
+crees: Forma del verbo "creer" en segunda persona del singular en presente.
+ven: Forma del verbo "venir" en segunda persona del plural en imperativo.
+sido: Forma del verbo "ser" en participio pasado.
+todas: Adjetivo que indica la totalidad o el conjunto completo de algo en forma femenina.
+tienen: Forma del verbo "tener" en tercera persona del plural en presente.
+menos: Adverbio que indica una cantidad o grado inferior.
+dice: Forma del verbo "decir" en tercera persona del singular en presente.
+haber: Verbo auxiliar que se utiliza para formar los tiempos compuestos.
+tres: Número cardinal que indica la cantidad de tres.
+cada: Adjetivo que indica una distribución individual o por unidad.
+padre: Sustantivo que se refiere a un progenitor masculino.
+años: Sustantivo que se refiere a la unidad de tiempo de 365 días.
+hijo: Sustantivo que se refiere a un descendiente masculino.
+nosotros: Pronombre personal de primera persona del plural.
+claro: Adjetivo que indica una situación evidente o comprensible.
+aún: Adverbio que indica continuidad o persistencia en el tiempo.
+seguro: Adjetivo que indica certeza o confianza.
+nuestra: Pronombre posesivo de primera persona del plural en forma femenina.
+gusta: Forma del verbo "gustar" en tercera persona del singular en presente.
+espera: Sustantivo que se refiere a la acción de aguardar o esperar.
+ve: Forma del verbo "ver" en segunda persona del singular en presente.
+trabajo: Sustantivo que se refiere a una actividad laboral o empleo.
+lugar: Sustantivo que se refiere a un sitio o espacio físico.
+verdad: Sustantivo que se refiere a la conformidad con la realidad o la sinceridad.
+pasa: Forma del verbo "pasar" en tercera persona del singular en presente.
+debo: Forma del verbo "deber" en primera persona del singular en presente.
+alguna: Indica una cantidad indeterminada o no específica de algo.
+quería: Forma del verbo "querer" en pasado y en primera o tercera persona del singular, que expresa un deseo o una voluntad.
+unos: Plural del indefinido "uno", utilizado para referirse a un número indeterminado pero pequeño de personas o cosas.
+esos: Plural del pronombre demostrativo "ese", usado para señalar a personas o cosas que están alejadas de quien habla y cerca de quien escucha.
+luego: Después, en un tiempo posterior.
+más: Indica una cantidad o grado superior en comparación con otra cosa.
+oye: Forma del verbo "oir" en segunda persona del singular en imperativo, que se utiliza para pedir atención o para llamar a alguien.
+quizá: Expresión que indica posibilidad o duda, equivalente a "tal vez" o "quizás".
+van: Forma del verbo "ir" en tercera persona del plural del presente de indicativo, que indica que varias personas se dirigen a un lugar o realizan una acción.
+mí: Pronombre personal de la primera persona del singular, que se utiliza para referirse a uno mismo.
+hemos: Forma del verbo "haber" en primera persona del plural del presente de indicativo, que indica la posesión, existencia o realización de algo.
+ti: Pronombre personal de la segunda persona del singular, que se utiliza para referirse a la persona con la que se habla.
+estos: Plural del pronombre demostrativo "este", utilizado para señalar a personas o cosas cercanas a quien habla.
+mismo: Indica identidad o igualdad con respecto a otra cosa o persona.
+algún: Indica indeterminación o cantidad no especificada de algo.
+pueden: Forma del verbo "poder" en tercera persona del plural del presente de indicativo, que expresa la capacidad, habilidad o permiso para hacer algo.
+noche: Periodo de tiempo que transcurre desde el anochecer hasta el amanecer, opuesto al día.
+mundo: El planeta Tierra y la totalidad de la humanidad.
+visto: Forma del verbo "ver" en pasado participio, que indica una acción o estado completado de ver algo.
+cosa: Objeto o elemento material no especificado.
+nombre: Palabra o conjunto de palabras que se utiliza para identificar a una persona, animal, cosa o concepto.
+realmente: Indica que algo es verdadero, auténtico o cierto.
+entre: Indica la situación de algo o alguien en medio de dos o más elementos.
+buenas: Forma del adjetivo "bueno" en plural y femenino, que indica calidad positiva.
+ah: Interjección utilizada para expresar sorpresa, alivio o comprensión.
+somos: Forma del verbo "ser" en primera persona del plural del presente de indicativo, que indica la identidad o estado de un grupo de personas.
+veo: Forma del verbo "ver" en primera persona del singular del presente de indicativo, que indica la acción de percibir visualmente algo.
+hizo: Forma del verbo "hacer" en tercera persona del singular en pretérito perfecto simple, que indica una acción realizada en el pasado.
+esas: Plural del pronombre demostrativo "esa", usado para señalar a personas o cosas que están alejadas de quien habla y cerca de quien escucha.
+parte: Porción o sección de algo.
+pues: Indica una relación de causa y efecto, o se utiliza como conector para introducir una explicación o justificación.
+saber: Tener conocimiento o información sobre algo o alguien.
+haciendo: Forma del verbo "hacer" en gerundio, que indica una acción en curso.
+debes: Forma del verbo "deber" en segunda persona del singular del presente de indicativo, que indica una obligación o necesidad.
+muchas: Indica una gran cantidad o número de algo.
+casi: Indica que algo está cerca de ser, pero no lo es del todo.
+amigo: Persona con la que se tiene una relación de amistad.
+hora: Unidad de tiempo que equivale a sesenta minutos.
+quizás: Expresión que indica posibilidad o duda, equivalente a "tal vez" o "quizá".
+dinero: Medio de intercambio utilizado para comprar bienes y servicios.
+hacia: En dirección a algo o alguien.
+haces: Forma del verbo "hacer" en segunda persona del singular del presente de indicativo, que indica una acción realizada en el presente.
+demasiado: En exceso o en gran cantidad.
+ud: Abreviatura de "usted", pronombre de tratamiento formal de segunda persona.
+pensé: Forma del verbo "pensar" en primera persona del singular en pretérito perfecto simple, que indica una acción mental de reflexión o consideración.
+madre: Mujer que ha dado a luz a uno o varios hijos.
+deja: Forma del verbo "dejar" en tercera persona del singular en presente de indicativo, que indica la acción de permitir o abandonar algo.
+hoy: En el día actual o presente.
+veces: Plural del sustantivo "vez", que indica repeticiones o ocurrencias de algo.
+debería: Forma del verbo "deber" en primera o tercera persona del singular en condicional, que indica una obligación o necesidad hipotética.
+contra: En oposición o en choque con algo o alguien.
+primera: Que ocupa el lugar más alto o anterior en una secuencia o jerarquía.
+mientras: Durante el tiempo que ocurre algo o se realiza una acción.
+cualquier: Indica indeterminación o posibilidad de elección entre varias opciones.
+nuevo: Reciente o que acaba de ser creado o adquirido.
+todavía: Aún, en el presente o en un momento determinado.
+debemos: Forma del verbo "deber" en primera persona del plural del presente de indicativo, que indica una obligación o necesidad.
+ustedes: Pronombre personal de segunda persona en plural, que se utiliza para referirse a un grupo de personas a las que se habla.
+mal: Lo opuesto a bueno, de baja calidad o en condiciones desfavorables.
+hombres: Seres humanos de sexo masculino.
+tanto: Indica una cantidad indeterminada pero grande o significativa.
+salir: Ir o abandonar un lugar.
+digo: Forma del verbo "decir" en primera persona del singular en presente de indicativo, que indica una acción de expresar algo verbalmente.
+mujer: Ser humano de sexo femenino.
+nueva: Que es reciente o que ha sido creada recientemente.
+momento: Período breve de tiempo.
+sería: Forma del verbo "ser" en condicional, que indica una situación hipotética o posible.
+papá: Término coloquial para referirse al padre.
+ves: Forma del verbo "ver" en segunda persona del singular en presente de indicativo, que indica la acción de percibir visualmente algo.
+da: Forma del verbo "dar" en tercera persona del singular en presente de indicativo, que indica la acción de entregar o proporcionar algo.
+hey: Interjección utilizada para llamar la atención o expresar sorpresa.
+importa: Forma del verbo "importar" en tercera persona del singular en presente de indicativo, que indica interés o preocupación por algo.
+cuánto: Indica interrogación sobre cantidad o grado.
+días: Plural del sustantivo "día", que indica la unidad de tiempo que transcurre desde el amanecer hasta el anochecer.
+cuál: Indica interrogación o selección entre varias opciones.
+espero: Forma del verbo "esperar" en primera persona del singular en presente de indicativo, que indica la acción de aguardar con expectativa.
+mañana: Día siguiente al día presente o periodo de tiempo que transcurre desde la medianoche hasta el mediodía del día siguiente.
+dame: Forma del verbo "dar" en segunda persona del singular en imperativo, que indica una solicitud o petición de algo.
+vaya: Forma del verbo "ir" en tercera persona del singular en presente de subjuntivo, que indica una acción hipotética o deseada.
+iba: Forma del verbo "ir" en primera o tercera persona del singular en pretérito imperfecto, que indica una acción en pasado de dirigirse a un lugar.
+mamá: Término coloquial para referirse a la madre.
+vi: Forma del verbo "ver" en primera persona del singular en pretérito perfecto simple, que indica una acción de percibir visualmente algo en el pasado.
+déjame: Forma del verbo "dejar" en primera persona del singular en imperativo, que indica una solicitud o petición de permitir algo.
+sabía: Forma del verbo "saber" en primera persona del singular en pretérito imperfecto, que indica conocimiento o información en pasado.
+ningún: Indica negación o ausencia de algo.
+buenos: Plural del adjetivo "bueno" en masculino, que indica calidad positiva.
+dr: Abreviatura de "doctor", título académico otorgado en muchas disciplinas.
+durante: En el transcurso de un período de tiempo.
+mierda: Palabra vulgar utilizada para expresar disgusto, frustración o enfado.
+forma: Configuración o estructura de algo.
+allí: En ese lugar o en aquel lugar.
+hice: Forma del verbo "hacer" en primera persona del singular en pretérito perfecto simple, que indica una acción realizada en el pasado.
+único: Que es solo o singular, que no tiene igual o equivalente.
+sigue: Forma del verbo "seguir" en tercera persona del singular en presente de indicativo, que indica la acción de continuar o perseguir algo.
+bajo: En una posición inferior o debajo de algo.
+poder: Tener la capacidad o habilidad para hacer algo.
+acuerdo: Consentimiento o conformidad entre dos o más personas.
+volver: Regresar o retornar a un lugar o situación anterior.
+nuestros: Plural del pronombre posesivo "nuestro", que indica pertenencia a un grupo o conjunto de personas.
+haya: Forma del verbo "haber" en primera o tercera persona del singular en presente de subjuntivo, que indica una posibilidad, deseo o hipótesis.
+supongo: Forma del verbo "suponer" en primera persona del singular en presente de indicativo, que indica una conjetura o suposición.
+toma: Acción de agarrar o recibir algo.
+siquiera: Indica un mínimo o una condición mínima.
+quieren: Forma del verbo "querer" en tercera persona del plural en presente de indicativo, que indica un deseo o una voluntad.
+chica: Sustantivo femenino que se refiere a una mujer joven o a una persona de corta edad.
+dejar: Permitir o permitirse algo, cesar en una acción o abandonar algo.
+aunque: Indica una contradicción o una concesión en relación a lo que se dice anteriormente.
+unas: Plural del artículo indefinido "una", que indica una cantidad pequeña e indeterminada.
+idea: Concepto o pensamiento que surge en la mente de una persona.
+ay: Interjección utilizada para expresar dolor, sorpresa o queja.
+dicho: Participio del verbo "decir", utilizado como adjetivo para referirse a algo mencionado anteriormente.
+necesitamos: Forma del verbo "necesitar" en primera persona del plural en presente de indicativo, que indica una necesidad o requerimiento.
+viene: Forma del verbo "venir" en tercera persona del singular en presente de indicativo, que indica la acción de llegar o acercarse a un lugar.
+allá: En ese lugar distante o en aquel lugar.
+ninguna: Femenino de "ninguno", que indica la ausencia o negación de algo.
+significa: Forma del verbo "significar" en tercera persona del singular en presente de indicativo, que indica el significado o sentido de algo.
+hubiera: Forma del verbo "haber" en tercera persona del singular en pretérito pluscuamperfecto de subjuntivo, que indica una situación hipotética o irreal en el pasado.
+algunos: Plural del adjetivo indefinido "alguno", que indica una cantidad limitada o no precisa.
+tomar: Agarrar, coger o beber algo.
+sra: Abreviatura de "señora", título de cortesía para referirse a una mujer casada.
+dentro: En el interior de algo o en un lugar interno.
+primer: Forma del adjetivo "primero" en masculino singular, que indica el primero en orden o jerarquía.
+llama: Forma del verbo "llamar" en tercera persona del singular en presente de indicativo, que indica la acción de dar un nombre o solicitar la atención de alguien.
+gustaría: Forma del verbo "gustar" en tercera persona del singular en condicional, que indica un deseo o preferencia.
+e: Conjunción utilizada para unir palabras o frases.
+dijiste: Forma del verbo "decir" en segunda persona del singular en pretérito perfecto simple, que indica una acción de expresar algo en el pasado.
+diablos: Interjección utilizada para expresar enfado, sorpresa o frustración.
+fin: Término o conclusión de algo.
+pasó: Forma del verbo "pasar" en tercera persona del singular en pretérito perfecto simple, que indica una acción ocurrida en el pasado.
+maldita: Maldito, que se usa para enfatizar una maldición o una condena.
+deberías: Forma del verbo "deber" en segunda persona del singular en condicional, que indica una obligación o recomendación.
+muchos: Plural del adjetivo "mucho", que indica una gran cantidad o número.
+cree: Forma del verbo "creer" en tercera persona del singular en presente de indicativo, que indica la acción de tener fe o confianza en algo.
+habla: Forma del verbo "hablar" en tercera persona del singular en presente de indicativo, que indica la acción de comunicarse verbalmente.
+fui: Forma del verbo "ser" o "ir" en primera persona del singular en pretérito perfecto simple, que indica una acción pasada de ser o ir.
+necesita: Forma del verbo "necesitar" en tercera persona del singular en presente de indicativo, que indica una necesidad o requerimiento.
+policía: Institución encargada de mantener el orden público y velar por la seguridad ciudadana.
+última: Forma del adjetivo "último" en femenino singular, que indica la posición o momento final de algo.
+vete: Forma del verbo "ir" en segunda persona del singular en imperativo, que indica una orden o solicitud de marcharse.
+lado: Parte o posición situada al costado o junto a algo.
+maldito: Que está condenado o es objeto de una maldición.
+otros: Plural de "otro", que indica la existencia de más de uno o diferentes opciones.
+razón: Motivo o justificación para algo.
+primero: Que ocupa la posición más alta o el lugar inicial en una serie o secuencia.
+cuenta: Acción de calcular o enumerar, o registro de ingresos y gastos.
+amor: Sentimiento de afecto, atracción o cariño hacia alguien.
+justo: Que se ajusta a la justicia, equidad o moralidad.
+chico: Sustantivo masculino que se refiere a un niño o a una persona joven.
+llegar: Alcanzar o arribar a un lugar o situación determinada.
+cuándo: En qué momento o tiempo.
+dime: Forma del verbo "decir" en segunda persona del singular en imperativo, que indica una solicitud de información o respuesta.
+ok: Expresión utilizada para indicar conformidad o acuerdo.
+cinco: Número cardinal que sigue al cuatro y precede al seis.
+dar: Entregar, proporcionar o conceder algo a alguien.
+algunas: Plural del adjetivo indefinido "alguno" en femenino, que indica una cantidad limitada o no precisa.
+vale: Aceptación o conformidad con algo.
+haré: Forma del verbo "hacer" en primera persona del singular en futuro de indicativo, que indica una acción que se realizará en el futuro.
+problema: Situación complicada o dificultad que requiere solución.
+tuve: Forma del verbo "tener" en primera persona del singular en pretérito perfecto simple, que indica una posesión o experiencia en el pasado.
+dicen: Forma del verbo "decir" en tercera persona del plural en presente de indicativo, que indica la acción de expresar algo.
+pasar: Atravesar, suceder o ocurrir algo.
+mío: Forma del pronombre posesivo "mío" que indica pertenencia en primera persona del singular.
+familia: Conjunto de personas emparentadas entre sí por vínculos de parentesco.
+viejo: Que tiene una edad avanzada o que existe desde hace mucho tiempo.
+hago: Forma del verbo "hacer" en primera persona del singular en presente de indicativo, que indica la acción de realizar algo.
+escucha: Forma del verbo "escuchar" en tercera persona del singular en presente de indicativo, que indica la acción de prestar atención a los sonidos.
+pueda: Forma del verbo "poder" en primera o tercera persona del singular en presente de subjuntivo, que indica la posibilidad o capacidad de hacer algo.
+esté: Forma del verbo "estar" en primera o tercera persona del singular en presente de subjuntivo, que indica la condición o estado en el que se encuentra algo o alguien.
+año: Período de 365 días o 366 en los años bisiestos, que marca la duración del ciclo de la Tierra alrededor del Sol.
+pasado: Que ha ocurrido o sucedido en un tiempo anterior al presente.
+cuidado: Atención, precaución o vigilancia.
+podía: Forma del verbo "poder" en primera o tercera persona del singular en pretérito imperfecto de indicativo, que indica una capacidad o posibilidad en el pasado.
+hacerlo: Realizar o ejecutar una acción.
+eran: Forma del verbo "ser" en tercera persona del plural en pretérito imperfecto de indicativo, que indica una cualidad o estado en el pasado.
+personas: Seres humanos o individuos.
+tarde: Momento del día que sigue a la mañana y precede a la noche.
+saben: Forma del verbo "saber" en tercera persona del plural en presente de indicativo, que indica el conocimiento o la información sobre algo.
+caso: Situación, suceso o circunstancia.
+adónde: Hacia qué lugar o destino.
+venga: Forma del verbo "venir" en tercera persona del singular en presente de subjuntivo, que indica la acción de llegar o acercarse a un lugar.
+fueron: Forma del verbo "ser" o "ir" en tercera persona del plural en pretérito perfecto simple, que indica una acción pasada de ser o ir.
+cuanto: Referente a la cantidad o medida de algo.
+cerca: En un lugar próximo o a poca distancia.
+pequeño: De tamaño reducido o de poca estatura.
+estuvo: Forma del verbo "estar" en tercera persona del singular en pretérito perfecto simple, que indica una condición o estado en el pasado.
+necesitas: Forma del verbo "necesitar" en segunda persona del singular en presente de indicativo, que indica una necesidad o requerimiento.
+hiciste: Forma del verbo "hacer" en segunda persona del singular en pretérito perfecto simple, que indica una acción realizada en el pasado.
+manos: Parte del cuerpo humano que se encuentra al final de los brazos y permite agarrar y manipular objetos.
+estabas: Forma del verbo "estar" en segunda persona del singular en pretérito imperfecto de indicativo, que indica una condición o estado en el pasado.
+encontrar: Dar con algo o alguien que se busca o se espera.
+queda: Forma del verbo "quedar" en tercera persona del singular en presente de indicativo, que indica la acción de permanecer o situarse en un lugar.
+nombre: Palabra o conjunto de palabras con las que se designa o identifica a algo o alguien.
+padre: Hombre que ha engendrado o adoptado a uno o varios hijos.
+vayas: Forma del verbo "ir" en segunda persona del singular en presente de subjuntivo, que indica la acción de moverse o dirigirse a un lugar.
+bueno: Que es de calidad o está en buen estado.
+haga: Forma del verbo "hacer" en primera o tercera persona del singular en presente de subjuntivo, que indica la acción de realizar algo.
+dicho: Participio del verbo "decir", utilizado como adjetivo para referirse a algo mencionado anteriormente.
+voy: Forma del verbo "ir" en primera persona del singular en presente de indicativo, que indica la acción de moverse o dirigirse a un lugar.
+poder: Tener la capacidad o habilidad de hacer algo.
+quedan: Forma del verbo "quedar" en tercera persona del plural en presente de indicativo, que indica la acción de permanecer o situarse en un lugar.
+noche: Período de tiempo que va desde el atardecer hasta el amanecer, en el que predomina la oscuridad.
+muerto: Que ha dejado de vivir o está sin vida.
+déjame: Forma del verbo "dejar" en segunda persona del singular en imperativo, que indica una solicitud de permitir o abandonar algo.
+hacerte: Realizar algo para beneficio o satisfacción personal.
+quieres: Forma del verbo "querer" en segunda persona del singular en presente de indicativo, que indica un deseo o voluntad.
+vivo: Que está en estado de vida o tiene actividad biológica.
+perdón: Disculpa o solicitud de disculpa por un error o falta.
+llamado: Participio del verbo "llamar", utilizado como adjetivo para referirse a algo que ha sido nombrado o solicitado.
+sigo: Forma del verbo "seguir" en primera persona del singular en presente de indicativo, que indica la acción de continuar o perseguir algo.
+señora: Título de cortesía para referirse a una mujer casada o de mayor edad.
+cabeza: Parte superior del cuerpo humano donde se encuentra el cerebro y los órganos sensoriales.
+dieron: Forma del verbo "dar" en tercera persona del plural en pretérito perfecto simple, que indica una acción de entregar o proporcionar algo.
+mismo: Que es idéntico o igual a otro.
+haces: Forma del verbo "hacer" en segunda persona del singular en presente de indicativo, que indica la acción de realizar algo.
+niños: Plural de "niño", que se refiere a un ser humano en la etapa infantil.
+trabajo: Actividad laboral remunerada o el conjunto de tareas realizadas en el ámbito profesional.
+parte: Porción o fragmento de un todo.
+vino: Forma del verbo "venir" en tercera persona del singular en pretérito perfecto simple, que indica la acción de llegar o acercarse a un lugar.
+razones: Motivos o justificaciones para algo.
+hacen: Forma del verbo "hacer" en tercera persona del plural en presente de indicativo, que indica la acción de realizar algo.
+podemos: Forma del verbo "poder" en primera persona del plural en presente de indicativo, que indica la capacidad o posibilidad de hacer algo.
+espera: Acción de aguardar a que algo ocurra o alguien llegue.
+ojos: Órganos visuales del cuerpo humano.
+salir: Irse o abandonar un lugar.
+tienes: Forma del verbo "tener" en segunda persona del singular en presente de indicativo, que indica la posesión o propiedad de algo.
+ciudad: Área urbana con una alta densidad de población y una organización política y administrativa definida.
+hecho: Participio del verbo "hacer", utilizado como adjetivo para referirse a algo realizado o consumado.
+cuarto: Que ocupa la posición número cuatro en una secuencia.
+gente: Conjunto de personas.
+cierto: Que es verdadero o indiscutible.
+espero: Forma del verbo "esperar" en primera persona del singular en presente de indicativo, que indica la acción de aguardar o tener expectativas sobre algo.
+pequeña: De tamaño reducido o de poca estatura, en femenino singular.
+vuelta: Acción de regresar o dar la vuelta a algo.
+hazlo: Forma del verbo "hacer" en segunda persona del singular en imperativo, que indica una solicitud de realizar una acción.
+mil: Número cardinal que sigue al novecientos noventa y nueve y precede al mil uno.
+último: El que está en la posición final o que sucede al final de una serie o secuencia.
+punto: Signo de puntuación que se utiliza para separar oraciones o frases en un texto, indicar abreviaturas o marcar el final de una oración.
+vivir: Tener vida o existencia.
+haga: Forma del verbo "hacer" en tercera persona del singular en presente de subjuntivo, que indica la acción de realizar algo.
+misma: Igual o idéntico en naturaleza, forma o características.
+realidad: Aquello que existe objetivamente y puede ser percibido o experimentado.
+lleva: Forma del verbo "llevar" en tercera persona del singular en presente de indicativo, que indica la acción de transportar o llevar consigo algo.
+guerra: Conflicto armado o enfrentamiento violento entre dos o más grupos o naciones.
+persona: Ser humano, individuo.
+pienso: Forma del verbo "pensar" en primera persona del singular en presente de indicativo, que indica la acción de tener ideas o reflexionar.
+sangre: Líquido vital de color rojo que circula por el cuerpo humano y otros animales.
+conmigo: En compañía o junto a mí.
+dile: Forma del verbo "decir" en segunda persona del singular en imperativo, que indica una solicitud de comunicar algo a alguien.
+rápido: Que se mueve o se realiza con velocidad o celeridad.
+seguir: Continuar o mantenerse en una acción o dirección.
+pensar: Reflexionar, tener ideas o considerar algo en la mente.
+seis: Número cardinal que sigue al cinco y precede al siete.
+además: También, además de lo mencionado anteriormente.
+listo: Preparado o dispuesto para algo.
+adiós: Expresión de despedida utilizada al separarse de alguien.
+entiendo: Forma del verbo "entender" en primera persona del singular en presente de indicativo, que indica la acción de comprender o captar el significado de algo.
+ojos: Órganos visuales del cuerpo humano.
+minutos: Unidad de medida de tiempo que equivale a 60 segundos.
+mayor: Que tiene una edad superior a otra persona o cosa.
+semana: Período de tiempo que equivale a siete días.
+agua: Sustancia líquida e incolora, compuesta por hidrógeno y oxígeno, esencial para la vida.
+sabemos: Forma del verbo "saber" en primera persona del plural en presente de indicativo, que indica la posesión de conocimiento o información.
+mano: Extremidad del brazo humano, desde la muñeca hasta la punta de los dedos.
+hija: Descendiente de una persona, de género femenino.
+habría: Forma del verbo "haber" en tercera persona del singular en condicional, que indica una acción hipotética o posibilidad en el pasado.
+haz: Forma del verbo "hacer" en segunda persona del singular en imperativo, que indica una solicitud de realizar una acción.
+ayuda: Asistencia o apoyo que se brinda a alguien en una situación o tarea.
+tío: Hermano del padre o de la madre.
+doctor: Título otorgado a una persona que ha obtenido el grado académico de doctor y está capacitada para ejercer la medicina.
+auto: Vehículo automóvil.
+diré: Forma del verbo "decir" en primera persona del singular en futuro de indicativo, que indica la acción de comunicar algo verbalmente.
+así: De esta manera, de la forma mencionada.
+ésta: Forma femenina singular del pronombre demostrativo "este", que indica cercanía con respecto a la persona que habla.
+jamás: En ningún momento, nunca.
+incluso: Hasta el punto o grado mencionado, e incluso más.
+difícil: Que presenta complicaciones, que no es fácil de realizar o comprender.
+noches: Periodo de tiempo que va desde el atardecer hasta el amanecer, durante el cual generalmente se duerme.
+contigo: En compañía o junto a ti.
+estaban: Forma del verbo "estar" en tercera persona del plural en pretérito imperfecto de indicativo, que indica la ubicación o estado en un momento pasado.
+paso: Acción de avanzar o moverse de un lugar a otro.
+tuvo: Forma del verbo "tener" en tercera persona del singular en pretérito indefinido, que indica la posesión o propiedad en el pasado.
+estaré: Forma del verbo "estar" en primera persona del singular en futuro de indicativo, que indica la ubicación o estado en un momento futuro.
+horas: Unidad de medida de tiempo que equivale a 60 minutos.
+juego: Actividad recreativa o competitiva con reglas establecidas.
+problemas: Situaciones o dificultades que requieren una solución.
+piensa: Forma del verbo "pensar" en tercera persona del singular en presente de indicativo, que indica la acción de tener ideas o reflexionar.
+cuerpo: Estructura física de un ser vivo.
+quisiera: Forma del verbo "querer" en primera persona del singular en condicional, que indica un deseo o solicitud.
+queremos: Forma del verbo "querer" en primera persona del plural en presente de indicativo, que indica el deseo o voluntad de hacer algo.
+llamo: Forma del verbo "llamar" en primera persona del singular en presente de indicativo, que indica la acción de dar nombre o pedir atención a alguien.
+demonios: Seres malignos o diabólicos.
+señora: Título de cortesía para dirigirse a una mujer adulta.
+agente: Persona que representa o trabaja en nombre de otra persona o entidad.
+grande: De tamaño o magnitud considerable.
+comida: Alimento que se consume para satisfacer el hambre o la necesidad nutritiva.
+buscar: Realizar una acción con el objetivo de encontrar algo o a alguien.
+digas: Forma del verbo "decir" en segunda persona del singular en presente de subjuntivo, que indica una solicitud de comunicar o expresar algo.
+muerto: Que ha dejado de vivir o está sin vida.
+mil: Número cardinal que sigue al novecientos noventa y nueve y precede al mil uno.
+cara: Parte anterior de la cabeza donde se encuentran los ojos, nariz y boca.
+falta: Ausencia o carencia de algo.
+estuve: Forma del verbo "estar" en primera persona del singular en pretérito indefinido, que indica la ubicación o estado en un momento pasado.
+acaba: Forma del verbo "acabar" en tercera persona del singular en presente de indicativo, que indica la acción de terminar o concluir algo.
+otras: Indica que hay más de una cosa o persona aparte de las mencionadas.
+probablemente: Con alta probabilidad, posiblemente.
+detrás: En la parte posterior o en el lugar posterior a algo o alguien.
+vuelve: Forma del verbo "volver" en tercera persona del singular en presente de indicativo, que indica la acción de regresar o retornar.
+tampoco: Indica negación o falta de algo en la misma medida o manera que lo mencionado anteriormente.
+pequeña: De tamaño reducido o inferior a lo común.
+sino: Indica oposición o contraposición a lo mencionado anteriormente.
+siendo: Forma del verbo "ser" en gerundio, que indica una acción o estado en progreso.
+comer: Ingerir alimentos a través de la boca y el aparato digestivo.
+deberíamos: Forma del verbo "deber" en primera persona del plural en condicional, que indica una obligación o recomendación en el pasado.
+recuerdo: Acción de recordar o tener en la memoria algo pasado.
+mala: De baja calidad o que no es bueno.
+seas: Forma del verbo "ser" en segunda persona del singular en presente de subjuntivo, que indica una condición hipotética o posibilidad.
+trabajar: Realizar actividades laborales o emplearse en una ocupación.
+segundo: Número ordinal que sigue al primero y precede al tercero.
+final: Último en una serie o secuencia.
+vemos: Forma del verbo "ver" en primera persona del plural en presente de indicativo, que indica la acción de percibir algo con los ojos.
+mujeres: Seres humanos de género femenino.
+jugar: Participar en una actividad recreativa o deportiva.
+quédate: Forma del verbo "quedarse" en segunda persona del singular en imperativo, que indica una solicitud de permanecer en un lugar.
+poner: Colocar o situar algo en un lugar determinado.
+amo: Forma del verbo "amar" en primera persona del singular en presente de indicativo, que indica la acción de tener amor o afecto hacia algo o alguien.
+importante: Que tiene importancia o relevancia.
+dado: Participio pasado del verbo "dar", que indica la acción de entregar o conceder algo.
+odio: Sentimiento de aversión o repulsión hacia algo o alguien.
+creí: Forma del verbo "creer" en primera persona del singular en pretérito indefinido, que indica la acción de tener creencia o convicción.
+suena: Forma del verbo "sonar" en tercera persona del singular en presente de indicativo, que indica la acción de producir un sonido.
+buscando: Acción de buscar o intentar encontrar algo o a alguien.
+suficiente: Que es adecuado o satisfactorio en cantidad, calidad o grado.
+usar: Emplear o hacer uso de algo.
+supuesto: Que se asume como cierto o real sin tener pruebas concretas.
+serio: Que muestra seriedad, formalidad o gravedad en su comportamiento o actitud.
+miren: Forma del verbo "mirar" en tercera persona del plural en presente de indicativo, que indica la acción de dirigir la vista hacia algo.
+luz: Agente físico que permite ver los objetos.
+murió: Forma del verbo "morir" en tercera persona del singular en pretérito indefinido, que indica el fallecimiento o muerte de alguien.
+loco: Que tiene perturbadas o desequilibradas sus facultades mentales.
+corazón: Órgano muscular que impulsa la sangre a través del sistema circulatorio.
+piensas: Forma del verbo "pensar" en segunda persona del singular en presente de indicativo, que indica la acción de tener ideas o reflexionar.
+llamar: Acción de dar nombre o pedir atención a alguien.
+acabo: Forma del verbo "acabar" en primera persona del singular en presente de indicativo, que indica la acción de terminar o concluir algo.
+viste: Forma del verbo "ver" en segunda persona del singular en pretérito indefinido, que indica la acción de percibir algo con los ojos.
+tierra: Planeta habitado por los seres humanos.
+diez: Número cardinal que sigue al nueve y precede al once.
+resto: Parte que queda de algo después de haberse quitado, separado o consumido una parte.
+vuelta: Acción de dar una vuelta completa o regresar al punto de partida.
+tras: En la parte posterior o en el lado opuesto de algo o alguien.
+hará: Forma del verbo "hacer" en tercera persona del singular en futuro de indicativo, que indica la acción de realizar algo en el futuro.
+alto: Que tiene una altura considerable o que se encuentra en una posición elevada.
+culpa: Responsabilidad o reproche por un error, falta o daño cometido.
+lamento: Acción de sentir o expresar pena, pesar o arrepentimiento.
+preocupes: Forma del verbo "preocuparse" en segunda persona del singular en presente de subjuntivo, que indica la acción de sentir inquietud o preocupación.
+arriba: En la parte superior o en dirección hacia lo alto.
+conoces: Forma del verbo "conocer" en segunda persona del singular en presente de indicativo, que indica la acción de tener conocimiento o familiaridad con algo o alguien.
+fiesta: Celebración o reunión festiva con un propósito especial.
+morir: Dejar de vivir o perder la vida.
+joven: Persona en la etapa temprana de la vida o que tiene poca edad.
+ése: Forma masculina singular del pronombre demostrativo "ese", que indica cercanía con respecto a la persona a la que se habla.
+esperar: Mantener la expectativa de que algo suceda o se cumpla.
+cuarto: Que ocupa la posición número cuatro en una secuencia o serie.
+eras: Forma del verbo "ser" en segunda persona del singular en pretérito imperfecto de indicativo, que indica la ubicación o estado en un momento pasado.
+mire: Forma del verbo "mirar" en primera persona del singular en presente de subjuntivo, que indica la acción de dirigir la vista hacia algo.
+fácil: Que se realiza o comprende sin dificultad o complicación.
+tratando: Acción de intentar o esforzarse por hacer algo.
+vine: Forma del verbo "venir" en primera persona del singular en pretérito perfecto simple, que indica la acción de llegar a un lugar.
+llamado: Participio pasado del verbo "llamar", que indica la acción de dar nombre o pedir atención a alguien.
+perder: Dejar de poseer o no poder encontrar algo.
+sal: Sustancia cristalina y blanca que se utiliza para sazonar o condimentar alimentos.
+chicas: Seres humanos de género femenino en la etapa temprana de la vida o de poca edad.
+basta: Forma del verbo "bastar" en tercera persona del singular en presente de indicativo, que indica que algo es suficiente o adecuado.
+pregunta: Acción de formular una cuestión o solicitar información.
+llegó: Forma del verbo "llegar" en tercera persona del singular en pretérito perfecto simple, que indica la acción de llegar a un lugar.
+haría: Forma del verbo "hacer" en tercera persona del singular en condicional, que indica una acción hipotética o posible en el pasado.
+supone: Forma del verbo "suponer" en tercera persona del singular en presente de indicativo, que indica la acción de considerar algo como cierto o probable.
+ten: Forma del verbo "tener" en segunda persona del singular en imperativo, que indica la acción de poseer o mantener algo.
+trato: Acción de relacionarse o interactuar con alguien de cierta manera.
+recuerda: Forma del verbo "recordar" en segunda persona del singular en presente de indicativo, que indica la acción de tener en la memoria algo pasado.
+padres: Personas que han engendrado o adoptado a un individuo.
+podríamos: Forma del verbo "poder" en primera persona del plural en condicional, que indica una posibilidad o capacidad en el pasado.
+oído: Órgano del cuerpo humano encargado de captar los sonidos.
+rey: Monarca o gobernante supremo de un reino.
+grandes: Que tiene un tamaño superior a lo normal o común.
+pensando: Acción de reflexionar o tener ideas en la mente.
+hacemos: Forma del verbo "hacer" en primera persona del plural en presente de indicativo, que indica la acción de realizar algo.
+hijos: Descendientes directos de una persona.
+esperando: Acción de mantener la expectativa de que algo suceda o se cumpla.
+tenías: Forma del verbo "tener" en segunda persona del singular en pretérito imperfecto de indicativo, que indica la posesión o estado en un momento pasado.
+exactamente: Con precisión o de manera exacta.
+das: Forma del verbo "dar" en segunda persona del singular en presente de indicativo, que indica la acción de entregar o conceder algo.
+armas: Instrumentos o dispositivos utilizados para atacar o defenderse.
+pudo: Forma del verbo "poder" en tercera persona del singular en pretérito perfecto simple, que indica una capacidad o posibilidad en el pasado.
+perro: Animal mamífero domesticado de la familia de los cánidos.
+propia: Que pertenece o es característico de una persona o cosa en particular.
+temo: Forma del verbo "temer" en primera persona del singular en presente de indicativo, que indica la acción de tener miedo o aprensión.
+adelante: Hacia el frente o en dirección hacia el futuro.
+lista: Serie o enumeración de elementos organizados.
+próxima: Que está cerca en el tiempo o el espacio.
+llevar: Transportar o conducir algo de un lugar a otro.
+abre: Forma del verbo "abrir" en segunda persona del singular en presente de indicativo, que indica la acción de abrir algo.
+fuerte: Que tiene una gran resistencia física o poderoso.
+lejos: A una gran distancia de un punto de referencia.
+puta: Insulto vulgar utilizado para referirse despectivamente a una mujer.
+peor: Que es de menor calidad o tiene condiciones desfavorables en comparación con otros.
+general: Oficial militar de alto rango que comanda un ejército.
+anda: Forma del verbo "andar" en tercera persona del singular en presente de indicativo, que indica la acción de caminar o desplazarse.
+darle: Acción de entregar o conceder algo a alguien.
+frente: Parte delantera o lado anterior de algo.
+meses: Unidad de tiempo que corresponde aproximadamente a un periodo de 30 o 31 días.
+fuiste: Forma del verbo "ser" o "ir" en segunda persona del singular en pretérito perfecto simple, que indica la acción de ser algo o ir a algún lugar en el pasado.
+gusto: Sensación agradable o preferencia por algo.
+uds: Abreviatura de "ustedes", pronombre de segunda persona del plural utilizado para referirse a un grupo de personas a quienes se habla.
+hermana: Mujer que tiene los mismos padres que otra persona.
+haremos: Forma del verbo "hacer" en primera persona del plural en futuro de indicativo, que indica la acción de realizar algo en el futuro.
+recuerdas: Forma del verbo "recordar" en segunda persona del singular en presente de indicativo, que indica la acción de tener en la memoria algo pasado.
+millones: Cantidad numérica equivalente a un millón de unidades.
+diga: Forma del verbo "decir" en tercera persona del singular en presente de subjuntivo, que indica la acción de expresar algo con palabras.
+dejó: Forma del verbo "dejar" en tercera persona del singular en pretérito perfecto simple, que indica la acción de abandonar o no tomar algo.
+pobre: Que tiene escasos recursos económicos o que sufre privaciones.
+ido: Participio pasado del verbo "ir", que indica la acción de marcharse o ausentarse.
+vio: Forma del verbo "ver" en tercera persona del singular en pretérito perfecto simple, que indica la acción de percibir algo con los ojos.
+estaría: Forma del verbo "estar" en tercera persona del singular en condicional, que indica una acción hipotética o posible en el pasado.
+arma: Instrumento utilizado para atacar o defenderse.
+hubo: Forma del verbo "haber" en tercera persona del singular en pretérito perfecto simple, que indica la existencia o suceso de algo en el pasado.
+llevo: Forma del verbo "llevar" en primera persona del singular en presente de indicativo, que indica la acción de transportar o conducir algo.
+palabra: Unidad lingüística con significado propio y que puede aparecer sola o formando parte de una oración.
+tendrá: Forma del verbo "tener" en tercera persona del singular en futuro de indicativo, que indica la acción de poseer o mantener algo en el futuro.
+escuela: Institución educativa donde se imparten conocimientos y se forman los estudiantes.
+seguridad: Estado de protección o confianza en la ausencia de peligro o riesgo.
+sistema: Conjunto de elementos organizados que interactúan entre sí para cumplir una función determinada.
+tendrás: Forma del verbo "tener" en segunda persona del singular en futuro de indicativo, que indica la acción de poseer o mantener algo en el futuro.
+disculpe: Expresión utilizada para pedir perdón o llamar la atención de alguien.
+asunto: Tema, materia o cuestión que se trata o se discute.
+diciendo: Forma del verbo "decir" en gerundio, que indica una acción en curso de expresar algo con palabras.
+nave: Embarcación o vehículo espacial utilizado para viajar o transportarse.
+aun: Expresión que indica que algo persiste o continúa, incluso en determinadas circunstancias.
+plan: Proyecto o estrategia para alcanzar un objetivo.
+estan: Forma del verbo "estar" en tercera persona del plural en presente de indicativo, que indica la acción de encontrarse en un lugar o situación.
+traje: Prenda de vestir completa compuesta por chaqueta y pantalón o falda del mismo tejido.
+sentido: Capacidad de percibir o interpretar estímulos a través de los sentidos, o referente a una dirección o significado específico.
+control: Acción de manejar o dirigir algo, o el poder para regular o supervisar.
+siente: Forma del verbo "sentir" en tercera persona del singular en presente de indicativo, que indica la acción de experimentar una sensación o emoción.
+sientes: Forma del verbo "sentir" en segunda persona del singular en presente de indicativo, que indica la acción de experimentar una sensación o emoción.
+vive: Forma del verbo "vivir" en tercera persona del singular en presente de indicativo, que indica la acción de tener vida o residir en un lugar.
+cambiar: Modificar o alterar algo, generalmente para obtener una diferencia o mejora.
+vivo: Que está en estado de vida, o que muestra intensidad y energía.
+trae: Forma del verbo "traer" en tercera persona del singular en presente de indicativo, que indica la acción de llevar algo hacia el hablante o un lugar específico.
+pude: Forma del verbo "poder" en primera persona del singular en pretérito perfecto simple, que indica la acción de tener la capacidad o habilidad para hacer algo en el pasado.
+decirte: Forma del verbo "decir" conjugado con el pronombre personal "te", que indica la acción de comunicar algo a ti.
+presidente: Persona que ocupa el cargo más alto en una organización, gobierno o país.
+grupo: Conjunto de personas o cosas que se encuentran juntas o se agrupan según algún criterio.
+genial: Que es excelente, maravilloso o muy bueno.
+simplemente: De manera sencilla, sin complicaciones o de forma fácil de entender.
+encontré: Forma del verbo "encontrar" en primera persona del singular en pretérito perfecto simple, que indica la acción de hallar o descubrir algo.
+malo: Que es de mala calidad, desfavorable o perjudicial.
+sean: Forma del verbo "ser" en tercera persona del plural en presente de subjuntivo, que indica una acción hipotética o posible.
+venido: Participio pasado del verbo "venir", que indica la acción de llegar a un lugar.
+tengas: Forma del verbo "tener" en segunda persona del singular en presente de subjuntivo, que indica la acción de poseer o mantener algo de forma hipotética.
+dale: Expresión utilizada para instar o animar a alguien a hacer algo.
+prueba: Acción de comprobar o verificar algo para evaluar su funcionamiento o veracidad.
+propio: Que pertenece o es característico de una persona o cosa en particular.
+tendré: Forma del verbo "tener" en primera persona del singular en futuro de indicativo, que indica la acción de poseer o mantener algo en el futuro.
+mató: Forma del verbo "matar" en tercera persona del singular en pretérito perfecto simple, que indica la acción de causar la muerte a alguien.
+sola: Que está sin compañía o ayuda de otros.
+pasando: Forma del verbo "pasar" en gerundio, que indica una acción en curso de transcurrir o atravesar un período de tiempo o situación.
+doy: Forma del verbo "dar" en primera persona del singular en presente de indicativo, que indica la acción de entregar o proporcionar algo a alguien.
+juntos: Que están unidos o en compañía de otros.
+sentir: Experimentar emociones o sensaciones físicas o emocionales.
+perdido: Que se ha extraviado o no se encuentra en el lugar esperado.
+oportunidad: Momento propicio o favorable para realizar algo.
+gustan: Forma del verbo "gustar" en tercera persona del plural en presente de indicativo, que indica la acción de sentir agrado o preferencia por algo o alguien.
+conseguir: Lograr o obtener algo que se desea o busca.
+pueblo: Conjunto de habitantes de una localidad o región.
+daré: Forma del verbo "dar" en primera persona del singular en futuro de indicativo, que indica la acción de entregar o proporcionar algo en el futuro.
+verte: Forma del verbo "ver" conjugado con el pronombre personal "te", que indica la acción de visualizar o observar a ti.
+dijeron: Forma del verbo "decir" en tercera persona del plural en pretérito perfecto simple, que indica la acción de comunicar o expresar algo en el pasado.
+sale: Forma del verbo "salir" en tercera persona del singular en presente de indicativo, que indica la acción de abandonar un lugar o poner algo a la venta.
+veras: Forma del verbo "ver" conjugado con el pronombre personal "as", que indica la acción de visualizar o percibir algo.
+conoce: Forma del verbo "conocer" en tercera persona del singular en presente de indicativo, que indica la acción de tener conocimiento o estar familiarizado con algo o alguien.
+puesto: Colocado o ubicado en un lugar específico.
+deje: Forma del verbo "dejar" en primera persona del singular en pretérito perfecto simple, que indica la acción de permitir o abandonar algo.
+orden: Organización o disposición de las cosas según un criterio o regla determinada.
+cambio: Acción de sustituir o alterar algo por otra cosa.
+perdón: Expresión utilizada para disculparse o pedir disculpas por un error o ofensa.
+tendremos: Forma del verbo "tener" en primera persona del plural en futuro de indicativo, que indica la acción de poseer o mantener algo en el futuro.
+atrás: En dirección opuesta al frente, en la parte posterior o en el pasado.
+través: Por medio o a lo largo de algo.
+mitad: Parte igual o equidistante de un todo dividido en dos partes iguales.
+fuerza: Capacidad para realizar un trabajo físico o ejercer una presión.
+dan: Forma del verbo "dar" en tercera persona del plural en presente de indicativo, que indica la acción de entregar o proporcionar algo a alguien.
+ante: Delante de, en presencia de o en consideración de algo o alguien.
+carajo: Expresión vulgar utilizada para mostrar enfado o frustración.
+hablo: Forma del verbo "hablar" en primera persona del singular en presente de indicativo, que indica la acción de comunicarse verbalmente.
+espere: Forma del verbo "esperar" en primera persona del singular en pretérito perfecto simple, que indica la acción de aguardar o tener expectativas en el pasado.
+libro: Obra literaria escrita en forma de texto impreso o digital.
+ropa: Conjunto de prendas o vestimentas que se utilizan para cubrir o adornar el cuerpo.
+veré: Forma del verbo "ver" en primera persona del singular en futuro de indicativo, que indica la acción de visualizar o percibir algo en el futuro.
+querido: Que se estima, aprecia o tiene afecto.
+abajo: En dirección hacia un lugar o posición más baja.
+campo: Extensión de terreno rural destinado a la agricultura o la cría de animales.
+decirle: Forma del verbo "decir" conjugado con el pronombre personal "le", que indica la acción de comunicar algo a él/ella/usted.
+segura: Que tiene certeza o seguridad.
+busca: Forma del verbo "buscar" en tercera persona del singular en presente de indicativo, que indica la acción de buscar o indagar algo.
+según: De acuerdo con o conforme a una fuente o criterio específico.
+derecho: Que está en línea recta o en posición vertical, o que es justo y conforme a la ley.
+calle: Vía pública destinada al tránsito de peatones y vehículos.
+salió: Forma del verbo "salir" en tercera persona del singular en pretérito perfecto simple, que indica la acción de abandonar un lugar.
+hablas: Forma del verbo "hablar" en segunda persona del singular en presente de indicativo, que indica la acción de comunicarse verbalmente.
+cuántos: Pregunta que se hace para obtener el número o cantidad de algo.
+cállate: Expresión utilizada para pedirle a alguien que se calle o deje de hablar.
+encanta: Forma del verbo "encantar" en tercera persona del singular en presente de indicativo, que indica la acción de gustar o deleitar mucho a alguien.
+ayudar: Prestar asistencia o apoyo a alguien o contribuir a resolver un problema.
+junto: Que está unido o en compañía de otros.
+asesino: Persona que mata a otra intencionadamente.
+centro: Punto medio de algo o lugar en el que se concentra una actividad o se encuentra una entidad importante.
+creía: Forma del verbo "creer" en primera persona del singular en pretérito imperfecto, que indica la acción de tener una creencia o convicción en el pasado.
+pagar: Entregar dinero o bienes a cambio de algo adquirido o para saldar una deuda.
+vienen: Forma del verbo "venir" en tercera persona del plural en presente de indicativo, que indica la acción de llegar o acercarse hacia el hablante o un lugar específico.
+quise: Forma del verbo "querer" en primera persona del singular en pretérito perfecto simple, que indica la acción de desear o tener la intención de hacer algo en el pasado.
+viaje: Desplazamiento de una persona o grupo de personas de un lugar a otro, generalmente por motivos de ocio, trabajo o estudio.
+estés: Forma del verbo "estar" en segunda persona del singular en presente de subjuntivo, que indica una acción hipotética o posible.
+porqué: Razón o motivo que explica o justifica algo.
+oficial: Que es reconocido o autorizado por una autoridad o entidad competente.
+posible: Que puede ser realizado o que tiene la capacidad de suceder.
+oí: Forma del verbo "oir" en primera persona del singular en pretérito perfecto simple, que indica la acción de percibir o captar sonidos con el oído.
+acá: En este lugar, aquí.
+baja: Que está situado a menor altura o nivel, o que tiene una intensidad o cantidad reducida.
+estábamos: Forma del verbo "estar" en primera persona del plural en pretérito imperfecto, que indica la acción de encontrarse en un lugar o situación en el pasado.
+mejores: Que son superiores en calidad, condiciones o rendimiento.
+oficina: Lugar destinado al trabajo administrativo o profesional.
+hicieron: Forma del verbo "hacer" en tercera persona del plural en pretérito perfecto simple, que indica la acción de realizar o efectuar algo en el pasado.
+tipos: Clases o categorías en las que se agrupan las cosas o personas según sus características comunes.
+pase: Forma del verbo "pasar" en primera persona del singular en pretérito perfecto simple, que indica la acción de atravesar o transitar por un lugar en el pasado.
+hacía: En dirección a, con destino a o en relación con algo o alguien.
+pensaba: Forma del verbo "pensar" en primera persona del singular en pretérito imperfecto, que indica la acción de tener pensamientos o ideas en el pasado.
+creen: Forma del verbo "creer" en tercera persona del plural en presente de indicativo, que indica la acción de tener una creencia o convicción en el presente.
+modo: Manera o forma en que se realiza o lleva a cabo algo.
+entra: Forma del verbo "entrar" en tercera persona del singular en presente de indicativo, que indica la acción de ingresar o introducirse en un lugar.
+dormir: Descansar o estar en estado de reposo durante la noche o una parte del día.
+media: Punto intermedio entre dos extremos.
+pudiera: Forma del verbo "poder" en tercera persona del singular en pretérito imperfecto de subjuntivo, que indica una acción hipotética o posible en el pasado.
+seré: Forma del verbo "ser" en primera persona del singular en futuro de indicativo, que indica la acción de existir o tener una cualidad en el futuro.
+salvar: Rescatar o librar de un peligro o situación difícil.
+profesor: Persona que enseña en una institución educativa.
+excepto: A excepción de, excluyendo.
+fuego: Proceso de combustión que produce calor y luz, o el elemento químico que lo provoca.
+ojalá: Expresión que expresa un deseo o anhelo.
+largo: Que tiene una extensión superior a la media o a lo normal.
+línea: Sucesión continua de puntos que se extiende en una dirección determinada.
+verdadero: Que es auténtico, real o genuino.
+siete: Número que sigue al seis y precede al ocho.
+ganar: Obtener la victoria o el triunfo en una competencia o disputa.
+james: Nombre propio que puede referirse a una persona con ese nombre.
+sitio: Lugar físico o espacio ocupado por algo o alguien.
+comprar: Adquirir algo a cambio de dinero u otro bien.
+ejército: Organización militar encargada de la defensa de un país o territorio.
+encuentra: Forma del verbo "encontrar" en tercera persona del singular en presente de indicativo, que indica la acción de hallar o descubrir algo o alguien.
+país: Territorio y comunidad política y cultural gobernada por un gobierno o autoridad central.
+extraño: Que resulta raro, inusual o desconocido.
+niña: Persona de sexo femenino en etapa infantil.
+llega: Forma del verbo "llegar" en tercera persona del singular en presente de indicativo, que indica la acción de llegar a un lugar.
+dólares: Moneda de curso legal en varios países, incluido Estados Unidos.
+placer: Sensación de satisfacción, gozo o bienestar.
+decirme: Forma del verbo "decir" conjugado con el pronombre reflexivo "me", que indica la acción de comunicar algo a mí.
+san: Abreviatura de "san" utilizada como tratamiento honorífico en nombres de santo o santa.
+dolor: Sensación desagradable de malestar físico o emocional.
+sala: Espacio o habitación en un edificio destinado a un propósito específico.
+caballeros: Hombres que se caracterizan por su nobleza, cortesía y buenos modales.
+segunda: Que ocupa el lugar inmediatamente después del primero en una serie o sucesión.
+ésa: Forma del pronombre "esa" utilizado para referirse a algo o alguien que está cerca de la persona a quien se habla.
+usa: Forma del verbo "usar" en tercera persona del singular en presente de indicativo, que indica la acción de emplear o utilizar algo.
+sueño: Estado de reposo en el que se encuentra una persona durante la noche.
+iremos: Forma del verbo "ir" en primera persona del plural en futuro de indicativo, que indica la acción de desplazarse a un lugar en el futuro.
+completamente: En su totalidad, sin excepción o reserva.
+totalmente: De manera completa o absoluta.
+coche: Vehículo de cuatro ruedas destinado al transporte de personas.
+afuera: Fuera de un lugar o espacio determinado.
+encima: En la parte superior o por encima de algo.
+diría: Forma del verbo "decir" en primera persona del singular en condicional, que indica la acción de expresar algo verbalmente.
+vuelto: Parte del cambio que se devuelve después de haber pagado más dinero del necesario.
+llamada: Acción de comunicarse con alguien a través de una llamada telefónica.
+estarás: Forma del verbo "estar" en segunda persona del singular en futuro de indicativo, que indica la acción de encontrarse en un estado o situación en el futuro.
+querida: Forma del adjetivo "querido" utilizado para referirse a una persona a la que se quiere o aprecia.
+volveré: Forma del verbo "volver" en primera persona del singular en futuro de indicativo, que indica la acción de regresar o retornar en el futuro.
+señorita: Título de cortesía utilizado para dirigirse a una mujer joven.
+llegado: Forma del verbo "llegar" conjugado como participio pasado, que indica una acción completada en el pasado.
+querías: Forma del verbo "querer" en segunda persona del singular en pretérito imperfecto, que indica la acción de desear o tener intención de algo en el pasado.
+bebé: Ser humano en sus primeras etapas de vida, especialmente durante los primeros meses después del nacimiento.
+hazlo: Imperativo del verbo "hacer" en segunda persona del singular, que indica la acción de realizar algo.
+regresar: Volver o retornar a un lugar o situación previa.
+bienvenido: Expresión de saludo o recibimiento a alguien que llega a un lugar.
+empezar: Iniciar o dar comienzo a algo.
+terminar: Finalizar o concluir algo.
+teléfono: Dispositivo utilizado para la comunicación a distancia mediante la transmisión de voz.
+estaremos: Forma del verbo "estar" en primera persona del plural en futuro de indicativo, que indica la acción de encontrarse en un estado o situación en el futuro.
+compañía: Agrupación de personas que se unen para un propósito común.
+necesitan: Forma del verbo "necesitar" en tercera persona del plural en presente de indicativo, que indica la acción de requerir o precisar algo.
+pena: Sentimiento de tristeza, dolor o aflicción.
+puso: Forma del verbo "poner" en tercera persona del singular en pretérito perfecto simple, que indica la acción de colocar o situar algo en el pasado.
+serán: Forma del verbo "ser" en tercera persona del plural en futuro de indicativo, que indica la acción de existir o tener una cualidad en el futuro.
+sacar: Extraer o retirar algo de un lugar.
+ataque: Acción ofensiva o agresiva dirigida hacia alguien o algo.
+apenas: Casi no, por poco.
+caja: Recipiente generalmente rectangular, con tapa y utilizado para guardar, transportar o contener objetos.
+tome: Forma del verbo "tomar" en segunda persona del singular en imperativo, que indica la acción de agarrar o coger algo.
+sucede: Forma del verbo "suceder" en tercera persona del singular en presente de indicativo, que indica la acción de ocurrir o acontecer algo.
+pone: Forma del verbo "poner" en tercera persona del singular en presente de indicativo, que indica la acción de colocar o situar algo.
+serás: Forma del verbo "ser" en segunda persona del singular en futuro de indicativo, que indica la acción de existir o tener una cualidad en el futuro.
+cielo: Espacio que se encuentra sobre la Tierra y en el que se observan el sol, la luna, las estrellas, entre otros cuerpos celestes.
+podrían: Forma del verbo "poder" en tercera persona del plural en condicional, que indica la acción de tener la capacidad o posibilidad de algo.
+dejes: Forma del verbo "dejar" en segunda persona del singular en presente de subjuntivo, que indica la acción de permitir o no interferir en algo.
+hagan: Forma del verbo "hacer" en tercera persona del plural en presente de subjuntivo, que indica la acción de realizar o ejecutar algo.
+información: Datos o conocimientos que se obtienen sobre algo o alguien.
+programa: Conjunto de instrucciones o acciones planificadas que se ejecutan en un orden determinado para realizar una tarea.
+duro: Que tiene una consistencia firme o resistente.
+acabó: Forma del verbo "acabar" en tercera persona del singular en pretérito perfecto simple, que indica la acción de terminar o concluir algo en el pasado.
+trabajando: Forma del verbo "trabajar" conjugado como gerundio, que indica la acción de realizar un esfuerzo físico o intelectual.
+palabras: Unidades lingüísticas que se utilizan para expresar ideas, pensamientos o sentimientos.
+negocio: Actividad económica o comercial que tiene como objetivo obtener beneficios.
+ambos: Dos personas o cosas consideradas juntas o en conjunto.
+trabaja: Forma del verbo "trabajar" en tercera persona del singular en presente de indicativo, que indica la acción de realizar un esfuerzo físico o intelectual.
+noticias: Información reciente o novedosa sobre eventos o sucesos.
+foto: Abreviatura de "fotografía", imagen capturada mediante un proceso fotográfico.
+veamos: Forma del verbo "ver" en primera persona del plural en presente de subjuntivo, que indica la acción de observar o mirar algo.
+decía: Forma del verbo "decir" en tercera persona del singular en pretérito imperfecto, que indica la acción de expresar algo verbalmente en el pasado.
+cierra: Forma del verbo "cerrar" en tercera persona del singular en presente de indicativo, que indica la acción de cerrar o clausurar algo.
+lindo: Que es agradable o atractivo a la vista.
+oír: Percibir o captar los sonidos a través del sentido del oído.
+quedan: Forma del verbo "quedar" en tercera persona del plural en presente de indicativo, que indica la acción de permanecer o estar en un lugar.
+paz: Estado de tranquilidad y ausencia de conflictos o violencia.
+vayan: Forma del verbo "ir" en tercera persona del plural en presente de subjuntivo, que indica la acción de desplazarse a un lugar en el presente.
+quiera: Forma del verbo "querer" en tercera persona del singular en presente de subjuntivo, que indica la acción de desear o tener intención de algo en el presente.
+hospital: Establecimiento destinado a la atención médica y hospitalaria de enfermos y heridos.
+acaso: Posibilidad o eventualidad de que algo ocurra o sea cierto.
+
+deseo: Anhelo o aspiración de obtener algo.
+pregunto: Forma del verbo "preguntar" en primera persona del singular en presente de indicativo, que indica la acción de hacer una pregunta.
+servicio: Acción de servir o de proveer ayuda o asistencia a alguien.
+aire: Mezcla de gases que constituye la atmósfera de la Tierra.
+tranquilo: Que está en calma o que no presenta agitación o alteración.
+semanas: Periodo de siete días consecutivos.
+avión: Vehículo más pesado que el aire, provisto de alas y motores, que se utiliza para el transporte de personas o mercancías por el aire.
+estados: Forma plural del sustantivo "estado", que se refiere a una condición o situación en la que se encuentra alguien o algo.
+mente: Facultad que permite pensar, razonar y tener conciencia.
+alrededor: En el entorno cercano o en el área circundante.
+voz: Sonido producido por la vibración de las cuerdas vocales al hablar.
+libre: Que no está sujeto a restricciones o limitaciones.
+muchachos: Forma plural de "muchacho", que se refiere a un joven o chico.
+irme: Forma del verbo "ir" en primera persona del singular en imperativo, que indica la acción de alejarse o marcharse.
+apuesto: Forma del verbo "apostar" en primera persona del singular en presente de indicativo, que indica la acción de arriesgar o confiar en algo.
+sigues: Forma del verbo "seguir" en segunda persona del singular en presente de indicativo, que indica la acción de continuar o proseguir.
+especial: Que tiene características distintivas o particulares que lo hacen destacar.
+dieron: Forma del verbo "dar" en tercera persona del plural en pretérito perfecto simple, que indica la acción de entregar o transferir algo en el pasado.
+café: Bebida caliente y estimulante elaborada a partir de los granos tostados de la planta de café.
+mensaje: Comunicación escrita o verbal que se envía para transmitir información o instrucciones.
+anoche: En la noche anterior al día en curso.
+juro: Forma del verbo "jurar" en primera persona del singular en presente de indicativo, que indica la acción de afirmar algo solemnemente.
+dejé: Forma del verbo "dejar" en primera persona del singular en pretérito perfecto simple, que indica la acción de abandonar o soltar algo en el pasado.
+debajo: En una posición inferior o por debajo de algo o alguien.
+encontramos: Forma del verbo "encontrar" en primera persona del plural en presente de indicativo, que indica la acción de hallar o descubrir algo.
+tenía: Forma del verbo "tener" en tercera persona del singular en pretérito imperfecto, que indica la acción de poseer o disponer de algo en el pasado.
+santo: Que es considerado sagrado o venerado por una religión o creencia.
+maestro: Persona con habilidades o conocimientos destacados en una disciplina o arte, y que enseña a otros.
+minuto: Unidad de tiempo equivalente a sesenta segundos.
+fotos: Abreviatura de "fotografías", imágenes capturadas mediante un proceso fotográfico.
+hayas: Forma del verbo "haber" en segunda persona del singular en presente de subjuntivo, que indica la acción de existir o haber algo.
+estuviste: Forma del verbo "estar" en segunda persona del singular en pretérito perfecto simple, que indica la acción de encontrarse en un lugar o situación en el pasado.
+habitación: Espacio cerrado y delimitado en una vivienda o edificio destinado para dormir, descansar o llevar a cabo actividades privadas.
+pareces: Forma del verbo "parecer" en segunda persona del singular en presente de indicativo, que indica la acción de dar la impresión o apariencia de algo.
+alegro: Forma del verbo "alegrar" en primera persona del singular en presente de indicativo, que indica la acción de causar o experimentar alegría.
+dejado: Participio pasado del verbo "dejar", que indica la acción de abandonar o cesar en algo.
+darme: Forma del verbo "dar" en infinitivo con el pronombre reflexivo "me", que indica la acción de proporcionarse algo a uno mismo.
+respuesta: Contestación o reacción que se da a una pregunta, petición o situación.
+hicimos: Forma del verbo "hacer" en primera persona del plural en pretérito perfecto simple, que indica la acción de realizar o llevar a cabo algo en el pasado.
+música: Arte de combinar los sonidos de manera armoniosa y agradable al oído.
+intento: Acción de tratar de hacer algo o alcanzar un objetivo.
+parecía: Forma del verbo "parecer" en tercera persona del singular en pretérito imperfecto, que indica la acción de dar la impresión o apariencia de algo en el pasado.
+dejaré: Forma del verbo "dejar" en primera persona del singular en futuro de indicativo, que indica la acción de permitir o abandonar algo en el futuro.
+sexo: Característica biológica que diferencia a los seres humanos en masculinos y femeninos.
+marido: Hombre casado con respecto a su esposa.
+vengan: Forma del verbo "venir" en tercera persona del plural en presente de subjuntivo, que indica la acción de llegar a un lugar en el presente.
+darte: Forma del verbo "dar" en infinitivo con el pronombre reflexivo "te", que indica la acción de proporcionar algo a alguien.
+ocurre: Forma del verbo "ocurrir" en tercera persona del singular en presente de indicativo, que indica la acción de suceder o acontecer algo.
+listos: Forma del adjetivo "listo" en plural, que indica que algo o alguien está preparado o terminado.
+habían: Forma del verbo "haber" en tercera persona del plural en pretérito imperfecto, que indica la acción de existir o haber algo en el pasado.
+esperen: Forma del verbo "esperar" en tercera persona del plural en presente de subjuntivo, que indica la acción de aguardar o tener esperanza en el presente.
+señal: Indicio, gesto o acción que transmite un mensaje o información.
+futuro: Tiempo que sigue al presente, que está por venir.
+permiso: Autorización o consentimiento para hacer algo.
+situación: Conjunto de circunstancias en las que se encuentra alguien o algo en un momento determinado.
+edad: Período de tiempo que ha transcurrido desde el nacimiento de una persona o desde la creación de algo.
+atención: Acción de prestar cuidadosa consideración o interés a algo o alguien.
+aquel: Refiere a algo o alguien que está lejos en el espacio o en el tiempo.
+debí: Forma del verbo "deber" en primera persona del singular en pretérito perfecto simple, que indica la acción de tener la obligación o necesidad de hacer algo en el pasado.
+cama: Mueble o estructura diseñada para dormir o descansar.
+vuelva: Forma del verbo "volver" en tercera persona del singular en presente de subjuntivo, que indica la acción de regresar o retornar en el presente.
+amiga: Mujer que mantiene una relación de amistad con otra persona.
+demás: Resto de las personas o cosas aparte de las mencionadas.
+damas: Forma del sustantivo "dama" en plural, que se refiere a mujeres de una posición social elevada o respetable.
+debía: Forma del verbo "deber" en primera persona del singular en pretérito imperfecto, que indica la acción de tener la obligación o necesidad de hacer algo en el pasado.
+hacerte: Forma del verbo "hacer" en infinitivo con el pronombre reflexivo "te", que indica la acción de realizar algo para ti mismo.
+puedas: Forma del verbo "poder" en segunda persona del singular en presente de subjuntivo, que indica la acción de tener la capacidad o habilidad para hacer algo.
+club: Asociación o grupo social con intereses comunes.
+vámonos: Forma del verbo "irnos" en primera persona del plural en presente de subjuntivo, que indica la acción de marcharse o salir en el presente.
+tendría: Forma del verbo "tener" en primera persona del singular en condicional, que indica la acción de poseer o disponer de algo en el futuro hipotético.
+esperaba: Forma del verbo "esperar" en primera persona del singular en pretérito imperfecto, que indica la acción de aguardar o tener esperanza en el pasado.
+llaman: Forma del verbo "llamar" en tercera persona del plural en presente de indicativo, que indica la acción de dar un nombre o convocar a alguien.
+ninguno: Refiere a la ausencia o falta de algo o alguien.
+alegra: Forma del verbo "alegrar" en tercera persona del singular en presente de indicativo, que indica la acción de causar o experimentar alegría.
+nivel: Grado de desarrollo, intensidad o calidad de algo.
+blanco: Color que refleja todas las longitudes de onda de la luz y que carece de pigmento.
+negro: Color que absorbe todas las longitudes de onda de la luz y que no refleja ninguna.
+tonto: Que carece de inteligencia o habilidades mentales.
+mantener: Acción de preservar o conservar algo en su estado actual.
+estén: Forma del verbo "estar" en tercera persona del plural en presente de subjuntivo, que indica la acción de encontrarse en un lugar o situación en el presente.
+causa: Motivo o razón que genera un efecto o consecuencia.
+vieja: Que tiene muchos años de existencia o que ha perdido su juventud.
+viendo: Forma del verbo "ver" en gerundio, que indica la acción de percibir visualmente algo en curso.
+linda: Que es hermosa, atractiva o agradable a la vista.
+déjeme: Forma del verbo "dejar" en imperativo formal con el pronombre reflexivo "me", que indica la acción de permitir o abandonar algo en relación a la persona a quien se habla.
+tuviste: Forma del verbo "tener" en segunda persona del singular en pretérito perfecto simple, que indica la acción de poseer o disponer de algo en el pasado.
+raro: Que es inusual o poco común.
+boca: Órgano situado en la cabeza de los animales vertebrados, que se utiliza para ingerir alimentos y producir sonidos al hablar.
+ahi: Adverbio de lugar que indica una posición cercana al lugar donde se encuentra la persona que habla.
+finalmente: Por último, al final o al término de algo.
+película: Obra audiovisual grabada en un formato cinematográfico que narra una historia.
+salga: Forma del verbo "salir" en tercera persona del singular en presente de subjuntivo, que indica la acción de abandonar o partir de un lugar en el presente.
+preguntas: Acciones de hacer consultas o solicitar información sobre algo.
+llamó: Forma del verbo "llamar" en tercera persona del singular en pretérito perfecto simple, que indica la acción de dar un nombre o convocar a alguien en el pasado.
+base: Fundamento o principio sobre el cual se apoya algo.
+tuvimos: Forma del verbo "tener" en primera persona del plural en pretérito perfecto simple, que indica la acción de poseer o disponer de algo en el pasado.
+luna: Satélite natural que orbita alrededor de la Tierra.
+habías: Forma del verbo "haber" en segunda persona del singular en pretérito pluscuamperfecto, que indica la acción de existir o haber algo en el pasado anterior a otro pasado.
+ocho: Número cardinal que sigue al siete y precede al nueve.
+mayoría: Estado de ser mayor en número, cantidad o importancia en relación a otros.
+vienes: Forma del verbo "venir" en segunda persona del singular en presente de indicativo, que indica la acción de llegar o desplazarse hacia el lugar donde se encuentra la persona a quien se habla.
+pido: Forma del verbo "pedir" en primera persona del singular en presente de indicativo, que indica la acción de solicitar o requerir algo.
+tenían: Forma del verbo "tener" en tercera persona del plural en pretérito imperfecto, que indica la acción de poseer o disponer de algo en el pasado.
+llevó: Forma del verbo "llevar" en tercera persona del singular en pretérito perfecto simple, que indica la acción de transportar o llevar algo en el pasado.
+verás: Forma del verbo "ver" en segunda persona del singular en futuro simple, que indica la acción de percibir visualmente algo en el futuro.
+volvió: Forma del verbo "volver" en tercera persona del singular en pretérito perfecto simple, que indica la acción de regresar o retornar en el pasado.
+solía: Forma del verbo "soler" en tercera persona del singular en pretérito imperfecto, que indica la acción de tener la costumbre o hábito de hacer algo en el pasado.
+daño: Acción de causar perjuicio, deterioro o lesión a algo o alguien.
+tengan: Forma del verbo "tener" en tercera persona del plural en presente de subjuntivo, que indica la acción de poseer o disponer de algo en el presente de manera hipotética.
+pon: Forma del verbo "poner" en segunda persona del singular en imperativo, que indica la acción de colocar o situar algo.
+perdí: Forma del verbo "perder" en primera persona del singular en pretérito perfecto simple, que indica la acción de dejar de tener algo o a alguien en el pasado.
+llamaré: Forma del verbo "llamar" en primera persona del singular en futuro simple, que indica la acción de dar un nombre o convocar a alguien en el futuro.
+empieza: Forma del verbo "empezar" en tercera persona del singular en presente de indicativo, que indica el inicio o comienzo de algo en el presente.
+conocer: Acción de adquirir información o familiarizarse con algo o alguien.
+estuviera: Forma del verbo "estar" en tercera persona del singular en pretérito imperfecto de subjuntivo, que indica una condición o situación hipotética en el pasado.
+ley: Conjunto de normas o reglas establecidas por la autoridad competente para regular una sociedad.
+quieras: Forma del verbo "querer" en segunda persona del singular en presente de subjuntivo, que indica el deseo o voluntad de hacer algo en el presente.
+acabar: Acción de finalizar o terminar algo.
+podrá: Forma del verbo "poder" en tercera persona del singular en futuro simple, que indica la capacidad o posibilidad de hacer algo en el futuro.
+dra.: Abreviatura de "doctora", que se utiliza para referirse a una mujer que ha obtenido un título de doctorado.
+dejo: Forma del verbo "dejar" en primera persona del singular en presente de indicativo, que indica la acción de permitir o abandonar algo en el presente.
+pelo: Cabello que crece en la cabeza de los seres humanos y algunos animales.
+gobierno: Organización política que ejerce la autoridad y administra el Estado.
+pie: Parte inferior del cuerpo humano que se utiliza para caminar y mantenerse en posición vertical.
+corre: Forma del verbo "correr" en tercera persona del singular en presente de indicativo, que indica la acción de moverse a gran velocidad.
+últimos: Que se encuentra al final de una serie de elementos o en el tiempo más reciente.
+abrir: Acción de abrir o desplegar algo que estaba cerrado.
+siguiente: Que sigue inmediatamente en orden o secuencia.
+misión: Tarea o encargo que se debe realizar, generalmente con un propósito específico.
+llevas: Forma del verbo "llevar" en segunda persona del singular en presente de indicativo, que indica la acción de transportar o llevar algo en el presente.
+regreso: Acción de volver o retornar a un lugar después de haber estado ausente.
+existe: Acción de tener realidad o existencia.
+quienes: Pronombre relativo que se utiliza para referirse a personas o individuos en plural.
+miles: Número cardinal que representa una cantidad grande e indeterminada.
+tanta: Indica una gran cantidad o grado de algo en relación a lo mencionado anteriormente.
+encontrado: Participio pasado del verbo "encontrar", que indica la acción de hallar o descubrir algo en el pasado.
+secreto: Información o conocimiento que se mantiene oculto o reservado.
+bonito: Que es agradable, hermoso o atractivo a la vista.
+montón: Cantidad grande o amontonada de algo.
+hacerle: Acción de realizar o ejecutar algo en relación a otra persona o sujeto.
+barco: Embarcación de grandes dimensiones utilizada para navegar por el agua.
+entiendes: Forma del verbo "entender" en segunda persona del singular en presente de indicativo, que indica la acción de comprender o captar algo.
+maldición: Conjuro o deseo maligno que se invoca para que algo o alguien sufra daño o desgracia.
+teniente: Rango militar que se encuentra por debajo del capitán.
+carne: Tejido muscular de los animales que se utiliza como alimento.
+irá: Forma del verbo "ir" en tercera persona del singular en futuro simple, que indica la acción de desplazarse o dirigirse a un lugar en el futuro.
+real: Que tiene existencia concreta y no es imaginario.
+don: Título honorífico que se utiliza para referirse a un hombre distinguido o noble.
+regalo: Obsequio o presente que se da a alguien sin esperar nada a cambio.
+fuimos: Forma del verbo "ser" en primera persona del plural en pretérito perfecto simple, que indica la acción de existir o ser algo en el pasado.
+disculpa: Expresión utilizada para pedir perdón o disculparse por un error o falta cometida.
+traer: Acción de llevar algo o a alguien hacia el lugar donde se encuentra la persona que habla.
+salvo: A excepción de, excepto por.
+quedar: Permanecer o estar en un lugar determinado.
+hubiese: Forma del verbo "haber" en tercera persona del singular en pretérito pluscuamperfecto de subjuntivo, que indica una condición o situación hipotética en el pasado.
+detective: Persona encargada de investigar crímenes u obtener información confidencial.
+toca: Forma del verbo "tocar" en tercera persona del singular en presente de indicativo, que indica la acción de poner en contacto o rozar algo.
+lleno: Que está ocupado o repleto de algo.
+llegue: Forma del verbo "llegar" en tercera persona del singular en presente de subjuntivo, que indica la acción de arribar o alcanzar un lugar en el presente de manera hipotética.
+vayas: Forma del verbo "ir" en segunda persona del singular en presente de subjuntivo, que indica la acción de desplazarse o dirigirse a un lugar en el presente de manera hipotética.
+harás: Forma del verbo "hacer" en segunda persona del singular en futuro simple, que indica la acción de realizar o llevar a cabo algo en el futuro.
+cualquiera: Indica indistinción o falta de importancia entre varias opciones.
+podamos: Forma del verbo "poder" en primera persona del plural en presente de subjuntivo, que indica la acción de tener la capacidad o posibilidad de hacer algo en el presente de manera hipotética.
+hablamos: Forma del verbo "hablar" en primera persona del plural en presente de indicativo, que indica la acción de comunicarse verbalmente con alguien en el presente.
+zona: Área o región delimitada o específica.
+próximo: Que está cerca en el tiempo o en el espacio.
+increíble: Que es difícil de creer o asombrar.
+dejen: Forma del verbo "dejar" en tercera persona del plural en presente de subjuntivo, que indica la acción de permitir o abandonar algo en el presente de manera hipotética.
+vuelo: Acción de desplazarse en el aire, generalmente en una aeronave.
+verlo: Verbo "ver" en infinitivo con pronombre de objeto directo "lo", que indica la acción de percibir visualmente algo.
+parecen: Forma del verbo "parecer" en tercera persona del plural en presente de indicativo, que indica la apariencia o aspecto de algo o alguien.
+pedir: Acción de solicitar o requerir algo a alguien.
+idiota: Persona tonta o sin inteligencia.
+santa: Relacionado con la santidad o el culto religioso.
+mes: Unidad de tiempo que corresponde a aproximadamente 30 o 31 días, dependiendo del mes del año.
+pelea: Combate o disputa violenta entre dos o más personas.
+haberlo: Verbo "haber" en infinitivo con pronombre de objeto directo "lo", que indica la existencia o presencia de algo en el pasado.
+encuentro: Acción de encontrarse con alguien o algo.
+hotel: Establecimiento que ofrece alojamiento y servicios a los viajeros.
+uh: Expresión utilizada para indicar sorpresa, duda o indecisión.
+tomó: Forma del verbo "tomar" en tercera persona del singular en pretérito perfecto simple, que indica la acción de agarrar o coger algo en el pasado.
+trasero: Parte posterior del cuerpo humano, especialmente de la región de las nalgas.
+tuviera: Forma del verbo "tener" en primera o tercera persona del singular en pretérito imperfecto de subjuntivo, que indica una condición o situación hipotética en el pasado.
+prefiero: Forma del verbo "preferir" en primera persona del singular en presente de indicativo, que indica la acción de tener una preferencia o elección en el presente.
+dando: Forma del verbo "dar" en gerundio, que indica la acción de entregar o proporcionar algo en progreso.
+ayer: Día anterior al día en curso.
+perfecto: Que está completo o sin defectos.
+coronel: Rango militar superior al de teniente coronel y subalterno al de general.
+honor: Sentimiento de respeto y aprecio hacia alguien o algo.
+viejos: En plural, se refiere a personas de edad avanzada o cosas que tienen mucho tiempo de existencia.
+capaz: Que tiene la capacidad o habilidad para hacer algo.
+teníamos: Forma del verbo "tener" en primera persona del plural en pretérito imperfecto de indicativo, que indica la posesión o propiedad de algo en el pasado.
+podrás: Forma del verbo "poder" en segunda persona del singular en futuro simple, que indica la capacidad o posibilidad de hacer algo en el futuro.
+contacto: Acción de establecer comunicación o conexión con alguien.
+confiar: Tener confianza o creer en alguien o algo.
+tren: Medio de transporte que circula sobre vías y se utiliza para el traslado de personas o mercancías.
+hacerme: Acción de realizar algo para uno mismo o en beneficio propio.
+mirar: Observar o dirigir la vista hacia algo o alguien.
+llamas: Forma del verbo "llamar" en segunda persona del singular en presente de indicativo, que indica la acción de dar nombre o convocar a alguien.
+ibas: Forma del verbo "ir" en segunda persona del singular en pretérito imperfecto de indicativo, que indica la acción de desplazarse o dirigirse a un lugar en el pasado.
+cuántas: Interrogativo que se utiliza para preguntar sobre una cantidad o número.
+estación: Lugar o instalación donde se detienen y esperan los medios de transporte.
+correcto: Que es adecuado, preciso o sin errores.
+vea: Forma del verbo "ver" en tercera persona del singular en presente de subjuntivo, que indica la acción de percibir visualmente algo en el presente de manera hipotética.
+llevaré: Forma del verbo "llevar" en primera persona del singular en futuro simple, que indica la acción de transportar o llevar algo en el futuro.
+podido: Participio pasado del verbo "poder", que indica la capacidad o posibilidad de hacer algo en el pasado.
+mr: Abreviatura de "mister" en inglés, utilizado como título de cortesía para hombres.
+tratar: Actuar o comportarse de determinada manera hacia alguien o algo.
+ponte: Forma del verbo "poner" en segunda persona del singular en imperativo, que indica la acción de colocar o situar algo en una posición determinada.
+esposo: Cónyuge masculino.
+muchacho: Joven o adolescente de sexo masculino.
+sigo: Forma del verbo "seguir" en primera persona del singular en presente de indicativo, que indica la acción de continuar o proseguir algo en el presente.
+relación: Vínculo o conexión entre personas o cosas.
+leer: Acción de comprender el significado de las palabras escritas o impresas.
+cerebro: Órgano principal del sistema nervioso central, responsable del pensamiento, la memoria y las funciones cognitivas.
+sargento: Rango militar que se encuentra por debajo del suboficial mayor y por encima del cabo.
+comandante: Oficial militar que tiene el rango inmediatamente superior al de capitán.
+sabías: Forma del verbo "saber" en segunda persona del singular en pretérito imperfecto de indicativo, que indica el conocimiento o la información de algo en el pasado.
+pidió: Forma del verbo "pedir" en tercera persona del singular en pretérito perfecto simple, que indica la acción de solicitar o requerir algo en el pasado.
+Jesús: Nombre propio de origen hebreo que se refiere al fundador del cristianismo.
+escuchar: Prestar atención a los sonidos o palabras que se oyen.
+estarán: Forma del verbo "estar" en tercera persona del plural en futuro simple, que indica la ubicación o estado en el futuro.
+médico: Profesional de la medicina que se dedica a la atención de la salud y el diagnóstico de enfermedades.
+dulce: Que tiene un sabor azucarado o agradable al paladar.
+carta: Documento escrito que contiene un mensaje o información.
+perdió: Forma del verbo "perder" en tercera persona del singular en pretérito perfecto simple, que indica la acción de dejar de tener o extraviar algo en el pasado.
+ellas: Pronombre personal de tercera persona del plural que se utiliza para referirse a un grupo de mujeres o cosas en plural.
+dejaste: Forma del verbo "dejar" en segunda persona del singular en pretérito perfecto simple, que indica la acción de abandonar o permitir algo en el pasado.
+vista: Sentido que permite percibir lo que está delante de los ojos.
+piso: Superficie horizontal de un edificio en un nivel determinado.
+siéntate: Imperativo del verbo "sentarse" en segunda persona del singular, que indica la acción de colocarse en una posición de estar sentado.
+dejas: Forma del verbo "dejar" en segunda persona del singular en presente de indicativo, que indica la acción de permitir o abandonar algo en el presente.
+cámara: Dispositivo que permite capturar imágenes o grabar videos.
+luces: Iluminación o conjunto de lámparas que proporcionan luz.
+novia: Persona con la que se tiene una relación amorosa y se espera contraer matrimonio.
+rayos: Descarga eléctrica que produce una luz intensa y calor.
+quiénes: Pronombre interrogativo que se utiliza para preguntar por la identidad o características de una o varias personas.
+estúpido: Que carece de inteligencia o entendimiento.
+regresa: Forma del verbo "regresar" en tercera persona del singular en presente de indicativo, que indica la acción de volver o retornar a un lugar.
+encima: En la parte superior o por sobre algo.
+banco: Institución financiera que ofrece servicios de intermediación y custodia de dinero.
+cerca: En un lugar o posición próxima o próxima a algo o alguien.
+matar: Causar la muerte a alguien o algo.
+cena: Comida que se realiza por la noche.
+entendido: Que ha comprendido o entendido algo.
+allí: En aquel lugar.
+bastante: En gran medida o en una cantidad considerable.
+entra: Forma del verbo "entrar" en tercera persona del singular en presente de indicativo, que indica la acción de ingresar o pasar a un lugar.
+iglesia: Lugar de culto y reunión de los cristianos.
+prueba: Evaluación o examen que se realiza para demostrar conocimientos o habilidades.
+tú: Pronombre personal de segunda persona del singular, que se utiliza para referirse a la persona con la que se habla.
+fuimos: Forma del verbo "ir" en primera persona del plural en pretérito perfecto simple, que indica la acción de desplazarse o dirigirse a un lugar en el pasado.
+temprano: Antes de lo habitual o lo esperado en el tiempo.
+viajar: Desplazarse de un lugar a otro, generalmente a una distancia considerable.
+profesor: Persona que se dedica a enseñar o instruir a otros.
+cansado: Que experimenta fatiga o agotamiento físico o mental.
+
+
+
